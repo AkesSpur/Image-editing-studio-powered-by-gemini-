@@ -1,0 +1,5 @@
+{
+  "name": "My personal Gemini Image Studio",
+  "description": "An AI-powered image editing studio using Gemini 2.5 Flash Image to transform images with natural language prompts.",
+  "requestFramePermissions": []
+}
